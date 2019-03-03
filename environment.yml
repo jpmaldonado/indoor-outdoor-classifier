@@ -1,0 +1,36 @@
+name: pex
+channels:
+  - defaults
+dependencies:
+  - certifi=2018.8.24
+  - pip=10.0.1
+  - python=3.5.6
+  - setuptools=40.2.0
+  - vc=14.1
+  - vs2015_runtime=14.15.26706
+  - wheel=0.31.1
+  - wincertstore=0.2
+  - pip:
+    - absl-py==0.7.0
+    - astor==0.7.1
+    - gast==0.2.2
+    - grpcio==1.19.0
+    - h5py==2.9.0
+    - keras==2.2.4
+    - keras-applications==1.0.7
+    - keras-preprocessing==1.0.9
+    - markdown==3.0.1
+    - numpy==1.16.2
+    - opencv-contrib-python==4.0.0.21
+    - pillow==5.4.1
+    - protobuf==3.7.0
+    - pyyaml==3.13
+    - scipy==1.2.1
+    - six==1.12.0
+    - tensorboard==1.12.2
+    - tensorflow==1.12.0
+    - termcolor==1.1.0
+    - tqdm==4.31.1
+    - werkzeug==0.14.1
+prefix: C:\Users\HP\Anaconda3\envs\pex
+
