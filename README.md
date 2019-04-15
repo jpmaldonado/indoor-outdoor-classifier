@@ -1,4 +1,4 @@
-# Classifying indoor and outdorr scenes
+# Classifying indoor and outdoor scenes
 
 Pipeline for image classifier.
 
